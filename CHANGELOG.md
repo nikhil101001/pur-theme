@@ -7,9 +7,16 @@ All notable changes to Pur Theme will be documented here.
 ### ✨ Initial Release
 
 **🖤 Pur Black** - Clean minimal dark  
+![Pur Black](/assets/pur-black.png)
+
 **🌈 Pur Cyberpunk** - Neon matrix vibes  
+![Pur Cyberpunk](/assets/pur-cyberpunk.png)
+
 **🌰 Pur Walnut** - Warm earthy tones  
-**⚡ Pur Neon** - Electric highlights
+![Pur Walnut](/assets/pur-walnut.png)
+
+**⚡ Pur Neon** - Electric highlights  
+![Pur Neon](/assets/pur-neon.png)
 
 ### 💫 Features
 

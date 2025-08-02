@@ -10,6 +10,13 @@
   - `pur-walnut.json` - Warm earthy tones theme
   - `pur-neon.json` - Electric highlights theme
 
+## 🎨 Theme Previews
+
+![Pur Black](/assets/pur-black.png)
+![Pur Cyberpunk](/assets/pur-cyberpunk.png)
+![Pur Walnut](/assets/pur-walnut.png)
+![Pur Neon](/assets/pur-neon.png)
+
 ## Get up and running
 
 - Press `F5` to open a new window with your extension loaded.
