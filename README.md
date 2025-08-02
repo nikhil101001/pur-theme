@@ -14,16 +14,20 @@ MIT - see [LICENSE](LICENSE)
 
 ## ✨ Themes
 
-**🖤 Pur Black** - Clean minimal dark  
+**🖤 Pur Black** - Clean minimal dark
+
 ![Pur Black](/assets/pur-black.png)
 
-**🌈 Pur Cyberpunk** - Neon matrix vibes  
+**🌈 Pur Cyberpunk** - Neon matrix vibes
+
 ![Pur Cyberpunk](/assets/pur-cyberpunk.png)
 
-**🌰 Pur Walnut** - Warm earthy tones  
+**🌰 Pur Walnut** - Warm earthy tones
+
 ![Pur Walnut](/assets/pur-walnut.png)
 
-**⚡ Pur Neon** - Electric highlights  
+**⚡ Pur Neon** - Electric highlights
+
 ![Pur Neon](/assets/pur-neon.png)
 
 ## 🚀 Installation

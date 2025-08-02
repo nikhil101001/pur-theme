@@ -52,10 +52,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/purblack/pur-black-vscode-theme"
+    "url": "https://github.com/nikhil101001/pur-theme"
   },
   "bugs": {
-    "url": "https://github.com/purblack/pur-black-vscode-theme/issues"
+    "url": "https://github.com/nikhil101001/pur-theme/issues"
   },
-  "homepage": "https://github.com/purblack/pur-black-vscode-theme#readme"
+  "homepage": "https://github.com/nikhil101001/pur-theme#readme"
 }
