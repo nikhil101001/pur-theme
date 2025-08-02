@@ -1,0 +1,61 @@
+{
+  "name": "pur-theme",
+  "displayName": "Pur Theme",
+  "description": "Elegant dark themes for VS Code with a purr-fect touch",
+  "version": "1.0.0",
+  "publisher": "nikhil101001",
+  "icon": "/assets/icon.jpg",
+  "author": {
+    "name": "Nikhil Sharma"
+  },
+  "keywords": [
+    "pur",
+    "pur-theme",
+    "pur black",
+    "pur neon",
+    "pur cyberpunk",
+    "black",
+    "cyberpunk",
+    "neon",
+    "transparent",
+    "walnut"
+  ],
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pur Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pur-black.json"
+      },
+      {
+        "label": "Pur Cyberpunk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pur-cyberpunk.json"
+      },
+      {
+        "label": "Pur Walnut",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pur-walnut.json"
+      },
+      {
+        "label": "Pur Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pur-neon.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purblack/pur-black-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/purblack/pur-black-vscode-theme/issues"
+  },
+  "homepage": "https://github.com/purblack/pur-black-vscode-theme#readme"
+}
