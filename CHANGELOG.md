@@ -2,6 +2,12 @@
 
 All notable changes to Pur Theme will be documented here.
 
+## [1.0.1] - 2025-08-04
+
+### 🎯 Enhanced
+
+- Improved selection colors for better contrast and readability
+
 ## [1.0.0] - 2025-08-02
 
 ### ✨ Initial Release
