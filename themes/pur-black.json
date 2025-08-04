@@ -79,9 +79,9 @@
     "editorGroupHeader.tabsBackground": "#000000",
     "editorGroupHeader.noTabsBackground": "#000000",
 
-    "editor.selectionBackground": "#0099FF33",
-    "editor.selectionHighlightBackground": "#0099FF22",
-    "editor.inactiveSelectionBackground": "#0099FF22",
+    "editor.selectionBackground": "#0099FF44",
+    "editor.selectionHighlightBackground": "#ffeb3b44",
+    "editor.inactiveSelectionBackground": "#ffeb3b44",
     "editor.selectionForeground": "#ffffff",
 
     "editor.findMatchBackground": "#ffeb3b44",
