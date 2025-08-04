@@ -2,6 +2,12 @@
 
 All notable changes to Pur Theme will be documented here.
 
+### [1.0.2] - 2025-08-05
+
+### 🐛 Fixed
+
+- Enhanced input validation colors for better visibility and contrast
+
 ## [1.0.1] - 2025-08-04
 
 ### 🎯 Enhanced
