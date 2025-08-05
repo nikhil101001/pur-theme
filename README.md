@@ -1,16 +1,10 @@
 # Pur Theme 🐾
 
-> Elegant ☕ Support
+<div align="center">
+  <img src="/assets/icon.png" alt="Pur Theme Logo" width="128" height="128">
+</div>
 
-Love the themes? [Buy me a coffee!](https://buymeacoffee.com/codebynikhil) ☕
-
-## 📄 License
-
-MIT - see [LICENSE](LICENSE)
-
----
-
-\_Made with 🐾 for developers who love beautiful code_themes for VS Code with a purr-fect touch
+> Elegant themes for VS Code with a purr-fect touch
 
 ## ✨ Themes
 
@@ -51,9 +45,13 @@ MIT - see [LICENSE](LICENSE)
 - Eye-friendly contrast
 - Terminal colors included
 
-## � License
+## 📄 License
 
 MIT - see [LICENSE](LICENSE)
+
+## ☕ Support
+
+Love the themes? [Buy me a coffee!](https://buymeacoffee.com/codebynikhil) ☕
 
 ---
 

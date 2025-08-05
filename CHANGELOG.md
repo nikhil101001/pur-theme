@@ -1,50 +1,34 @@
-# 🐾 Pur Theme Changelog
+# Pur Theme Changelog
 
-All notable changes to Pur Theme will be documented here.
+## [1.0.2] - 2025-08-05
 
-### [1.0.2] - 2025-08-05
-
-### 🐛 Fixed
+**Fixed**
 
 - Enhanced input validation colors for better visibility and contrast
 
 ## [1.0.1] - 2025-08-04
 
-### 🎯 Enhanced
+**Enhanced**
 
 - Improved selection colors for better contrast and readability
 
 ## [1.0.0] - 2025-08-02
 
-### ✨ Initial Release
+**Initial Release**
 
-**🖤 Pur Black** - Clean minimal dark  
-![Pur Black](/assets/pur-black.png)
+Four beautiful themes included:
 
-**🌈 Pur Cyberpunk** - Neon matrix vibes  
-![Pur Cyberpunk](/assets/pur-cyberpunk.png)
+- **Pur Black** - Clean minimal dark theme
+- **Pur Cyberpunk** - Neon matrix vibes
+- **Pur Walnut** - Warm earthy tones
+- **Pur Neon** - Electric highlights
 
-**🌰 Pur Walnut** - Warm earthy tones  
-![Pur Walnut](/assets/pur-walnut.png)
+**Features**
 
-**⚡ Pur Neon** - Electric highlights  
-![Pur Neon](/assets/pur-neon.png)
-
-### 💫 Features
-
-- Beautiful syntax highlighting
-- Complete UI theming
-- Eye-friendly contrast
-- Terminal colors included
-- Git integration colors
-- Error/warning indicators
-- Find/replace highlighting
-- Bracket matching
-- Minimap integration
-
-### 🛠️ Language Support
-
-HTML • CSS • JavaScript • TypeScript • Python • Java • C# • Go • Rust • PHP • Ruby • JSON • YAML • Markdown • and many more...
+- Syntax highlighting for 20+ languages
+- Complete UI theming with eye-friendly contrast
+- Terminal colors and Git integration
+- Error/warning indicators and bracket matching
 
 ---
 
